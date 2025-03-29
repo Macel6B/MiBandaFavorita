@@ -1,0 +1,101 @@
+/* Paleta de colores usandose 
+#F6F8D5, #205781, #4F959D, #98D2C0
+*/
+/* archivo index */
+
+.body{
+    background-color: #F6F8D5;
+}
+
+.primer-encabezado{
+    font-family: "Bebas Neue", sans-serif;
+    text-align: center;
+    background-color: #205781;
+    padding: 10px;
+}
+
+#parrafo-uno{
+    background-color: #4F959D;
+    font-family: "Montserrat", sans-serif;
+    padding: 15px;
+}
+
+#tabla-elementos {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+#tabla-elementos th, #tabla-elementos td {
+    font-family: "Montserrat", sans-serif;
+    border: 1px solid #205781;
+    padding: 10px;
+    text-align: center;
+}
+
+#tabla-elementos th {
+    background-color: #205781;
+    color: white;
+}
+
+/* archivo discografía */
+
+.divs {
+    font-family: "Montserrat", sans-serif;
+}
+
+.albumes{
+    background-color: #98D2C0;
+    display: block;
+    border: black;
+    border-style: double;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.albumes:hover {
+    opacity:initial 70%;
+    transform: scale(1.05);
+}
+
+.contenedor_dos {
+    margin: auto;
+    text-align: center;
+}
+
+.contenedor_dos ol {
+    list-style-position: inside;
+    padding-left: 0;
+}
+
+.division_bloques {
+    background-color: black;
+    height: 12px;
+    width: 100%;
+    margin: 20px;
+
+
+}
+
+/* archivo formulario */
+#formulario-uno{
+    font-family: "Bebas Neue", sans-serif;
+}
+
+.formulario{
+    margin-left: 35px;
+    margin-right: 35px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+
+    background-color: #4F959D;
+}
+
+
+
+
+
+
+
